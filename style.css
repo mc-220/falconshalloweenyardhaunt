@@ -76,6 +76,12 @@ nav a:hover {
 	color: #777;
 }
 
+.slideshow .slide {
+	width:32%;
+	height:auto;
+	pobject-fit: cover;
+	border: 2px solid var(--primary);
+}
 .map-container {
 		width: 80%
 		max-width: 600 px;
